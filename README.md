@@ -19,25 +19,23 @@
    ```bash
    git clone https://github.com/username/PomodoroTimer.git
    cd PomodoroTimer
-
 2. 스크립트 실행 Bash셸 -> python pomodoro.py
-
 3. 입력값
 - 집중시간 집중 시간(분)
 - 휴식 시간(분)
 - 반복 횟수
 
 사용예시:
-Pomodoro 타이머를 시작합니다.
-집중 시간(분): 25
-휴식 시간(분): 5
-반복 횟수: 4
+- Pomodoro 타이머를 시작합니다.
+- 집중 시간(분): 25
+- 휴식 시간(분): 5
+- 반복 횟수: 4
 
 결과:
-🍅 1번째 집중 시작! 25분 동안 집중하세요.
-☕ 휴식 시간! 5분 동안 쉬세요.
+- 🍅 1번째 집중 시작! 25분 동안 집중하세요.
+- ☕ 휴식 시간! 5분 동안 쉬세요.
 ...
-🎉 모든 Pomodoro 세션이 끝났습니다! 수고하셨습니다.
+- 🎉 모든 Pomodoro 세션이 끝났습니다! 수고하셨습니다.
 
 요구사항
 - Python 3.x
